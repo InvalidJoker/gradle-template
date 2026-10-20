@@ -1,7 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "gradle"
-    target-branch: "main"
-    directory: "/"
-    schedule:
-      interval: "daily"

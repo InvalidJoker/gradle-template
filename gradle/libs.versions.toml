@@ -3,7 +3,7 @@ kotlin = "2.4.21"
 shadow = "9.6.1"
 serialization = "1.13.0"
 coroutines = "1.10.2"
-logback = "1.6.5"
+logback = "1.6.6"
 
 [libraries]
 kotlin-jvm = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
